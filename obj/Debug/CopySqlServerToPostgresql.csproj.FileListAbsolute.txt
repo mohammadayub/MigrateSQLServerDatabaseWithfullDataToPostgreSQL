@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\bin\Debug\CopySqlServerToPostgresql.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\bin\Debug\CopySqlServerToPostgresql.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\bin\Debug\CopySqlServerToPostgresql.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\bin\Debug\Npgsql.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\bin\Debug\Npgsql.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\obj\Debug\CopySqlServerToPostgresql.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\obj\Debug\CopySqlServerToPostgresql.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\obj\Debug\CopySqlServerToPostgresql.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\obj\Debug\CopySqlServerToPostgresql.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\CopySqlServerToPostgresql_1.4_Source\obj\Debug\CopySqlServerToPostgresql.pdb

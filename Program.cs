@@ -92,10 +92,6 @@ namespace ConversionMSSQLTOPOSTGRESQL
             // In debug mode use DatabaseName catalog.
             Catalog = "ppm";
             Catalog2 = Catalog.ToLower();
-           
-    
-
-
             var connectionStringSqlServer = GetConnectionString(Server, Catalog, Username, Password);
             var connectionStringPostgresql = GetConnectionString(Server2, Catalog2, Username2, Password2, ProviderName2, DatabasePort2);
 
